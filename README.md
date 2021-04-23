@@ -1,4 +1,4 @@
-## Web Resume
+<h2> Web Resume </h2>
 
 <h5> Student: Michele de Sousa - Id: 21959 </h5>
 
